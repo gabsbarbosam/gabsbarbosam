@@ -1,8 +1,4 @@
-# 🦕 Olá!
-
-## 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-barbosa-martins/) 
-![image](https://github.com/gabsbarbosam/gabsbarbosam/assets/102072743/59055909-2713-4aa8-84f9-1f6ff7bc024c)
+# 🦕 Olá, dinossauros!
 
 # 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=gabsbarbosam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
